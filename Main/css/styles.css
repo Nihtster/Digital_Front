@@ -1,0 +1,16 @@
+body {
+  background-color: #232931;
+  color: aliceblue;
+}
+
+.navbar-brand {
+  color: aliceblue;
+}
+
+.nav-link {
+  color: aliceblue;
+}
+
+.navbarImg {
+  margin-bottom: 5px;
+}

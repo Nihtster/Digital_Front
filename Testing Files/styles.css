@@ -1,0 +1,32 @@
+body {
+  background-color: #222831;
+}
+
+.progress-blocks {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+.skill-header {
+  margin-top: 30px;
+  color: #d65a31;
+  background-color: #1c2129;
+}
+
+.btnx {
+  background: transparent;
+}
+
+.multi-bar {
+  width: 60vw;
+}
+
+.card {
+  background-color: transparent;
+  border: transparent;
+}
+
+.progress {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
